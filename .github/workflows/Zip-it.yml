@@ -39,7 +39,7 @@ jobs:
           prefix: ${HOME}/.local
           pkg_directories: bin
           bin: ssh-pull-id
-          owner: waydroid
+          owner: tuxecure
           package_name: ssh-pull-id
 
       - name: setup release
