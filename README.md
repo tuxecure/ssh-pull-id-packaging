@@ -7,10 +7,11 @@ the tool was made with Ubuntu Touch in mind, because its default ssh config is s
 ssh-pull-id will reverse the direction, now you use the tool to pull another host's public key. the typical scenario it was created for, is when you use it on Ubuntu Touch device, and pull is made from another host which allows password based authentication.
 
 ## Before
-![image](https://user-images.githubusercontent.com/10421851/162029049-3b23cb13-73c4-425b-9017-215ef643d937.png)
+![image](https://user-images.githubusercontent.com/10421851/162029364-aa55f3b3-f944-4b70-bbbb-edb23bac2037.png)
+
 
 ## running ssh-pull-id
-![image](https://user-images.githubusercontent.com/10421851/162029124-79f6d5c1-9793-4ff3-834b-7494376e3350.png)
+![image](https://user-images.githubusercontent.com/10421851/162029403-6deccb36-4630-4b72-9d4d-edbdfdf38449.png)
 
 ## After
-![image](https://user-images.githubusercontent.com/10421851/162029159-818cba53-9f7e-4572-993d-d0f7e57a1531.png)
+![image](https://user-images.githubusercontent.com/10421851/162029469-87b34e78-9f39-43fb-858a-d19c78182416.png)
