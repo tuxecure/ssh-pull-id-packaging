@@ -18,12 +18,26 @@ ssh-pull-id will reverse the direction, now you use the tool to pull another hos
 - ???
 - profit
 
-## Before
+# Upgrade
+
+upgrading is simple, just run the following commands in the terminal
+- `source ~/.local/lib/crackle/wpm`
+- `download_wpm`
+- `unzip_wpm`
+- `install_wpm`
+
+# Remove
+
+removing is even simpler~ just run these two commands
+- `source ~/.local/lib/crackle/wpm`
+- `remove_wpm`
+
+## Before running ssh-pull-id
 ![image](https://user-images.githubusercontent.com/10421851/162029364-aa55f3b3-f944-4b70-bbbb-edb23bac2037.png)
 
 
 ## running ssh-pull-id
 ![image](https://user-images.githubusercontent.com/10421851/162029403-6deccb36-4630-4b72-9d4d-edbdfdf38449.png)
 
-## After
+## After running ssh-pull-id
 ![image](https://user-images.githubusercontent.com/10421851/162029469-87b34e78-9f39-43fb-858a-d19c78182416.png)
