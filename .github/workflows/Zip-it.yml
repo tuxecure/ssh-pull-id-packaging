@@ -34,9 +34,8 @@ jobs:
           rm ssh-pull-id.tar.gz
 
       - name: zip it
-        uses: tuxecure/zip-it@v2
+        uses: tuxecure/zip-it@v2.1
         with:
-          prefix: ${HOME}/.local
           pkg_directories: bin
           bin: ssh-pull-id
           owner: tuxecure
