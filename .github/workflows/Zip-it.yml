@@ -31,14 +31,12 @@ jobs:
         run: |
           wget https://sourceforge.net/projects/ssh-pull-id/files/ssh-pull-id.tar.gz
           tar -xf ssh-pull-id.tar.gz
-          rm ssh-pull-id.tar.gz
 
       - name: zip it
         uses: tuxecure/zip-it@v2.1
         with:
           pkg_directories: bin
           bin: ssh-pull-id
-          owner: tuxecure
           package_name: ssh-pull-id
 
       - name: setup release
